@@ -1,7 +1,0 @@
-Product_ID,Category,Price,Stock_Level,Discount_Applied
-101,Electronics,299.99,15,TRUE
-102,Home,,20,FALSE
-103,Electronics,150,,FALSE
-104,Books,19.95,100,
-105,Home,,5,TRUE
-106,Electronics,450,12,FALSE

@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly
-xlsxwriter
-openpyxl
-statsmodels
