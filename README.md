@@ -6,3 +6,5 @@ with Python, BeautifulSoup, stremalit and Pandas.
 ## 🚀 Live Demo
 Data Assistant:
 👉 https://appbashx-eaj9afuuwsphguz9eywfve.streamlit.app/
+BMI Calculator:
+👉 https://appbashx-yqfrs9mrmvyiqp7ndsb6h4.streamlit.app/
